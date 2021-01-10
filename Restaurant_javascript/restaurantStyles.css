@@ -1,0 +1,18 @@
+footer{text-align: center;}
+h1{text-align: center;}
+#ruler_header{border-top:darkblue solid 1pt;}
+.header_h1{text-align: center; background-color: cornflowerblue;font-family:cursive;}
+    body {
+        color:navy;
+        font-family: sans-serif;
+        font-size: 1.2pc;
+
+    }
+    .container{max-width: 1800px;
+        margin:0 auto;
+
+    }
+  table{text-align: center; 
+    width: 90%;
+}
+    section{background-color:orange;}
